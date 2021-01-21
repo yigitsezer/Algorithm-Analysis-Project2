@@ -5,14 +5,6 @@ This is a project used to analyse Dijkstra's algorithm.
 
 gui.py is the main user friendly interface, it doesn't depend on the other scripts present in this repository.
 
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
 ## draw_test.py
 You can play around draw_test.py to generate random graphs with given size and edge creation probability by changing these variables at top
 ```python
